@@ -12,4 +12,16 @@
     <string name="user_age">67</string>
     <string name="label_location">Location:</string>
     <string name="user_location">UIT</string>
+
+    <string name="experiences_title">Experiences</string>
+    <string name="educations_title">Educations</string>
+    <string name="edu_place">UIT, VNU-HCM</string>
+    <string name="edu_time">Apr 2019 - June 2024</string>
+    <string name="edu_major">Information System</string>
+    <string name="edu_desc">The education was mainly System design-basec course, but I also learned about Web, Data analysis and more. During my time in college, I specialized in OOP, data science. Now, I\'m learning web development</string>
+    <string name="working_experiences_title">Working Experiences</string>
+    <string name="work_place">Fresher Engineer</string>
+    <string name="work_time">Sep 2021 - current</string>
+    <string name="work_title">Part-time - Fresher Web Developer</string>
+    <string name="work_desc">Working as a Fresher Devloper on a dating function on Facebook page. Dating function is an app as Tinder</string>
 </resources>
