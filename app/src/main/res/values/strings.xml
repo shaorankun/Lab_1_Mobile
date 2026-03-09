@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="profile_title">Profile</string>
+    <string name="student_description">I\'m a student</string>
+    <string name="hello_red">About me</string>
+    <string name="cat_image_description">A picture of a cat</string>
+    <string name="im_a_cat">I\'m a cat</string>
+    <string name="details_title">Details</string>
+    <string name="label_name">Name:</string>
+    <string name="user_name">Le Anh Tuan</string>
+    <string name="label_age">Age:</string>
+    <string name="user_age">67</string>
+    <string name="label_location">Location:</string>
+    <string name="user_location">UIT</string>
+</resources>
